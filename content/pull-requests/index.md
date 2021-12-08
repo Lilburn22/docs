@@ -8,7 +8,7 @@ versions:
   ghes: '*'
   ghae: '*'
 topics:
-  - Pull requests
+  - Pull p
 children:
   - /committing-changes-to-your-project
   - /collaborating-with-pull-requests
